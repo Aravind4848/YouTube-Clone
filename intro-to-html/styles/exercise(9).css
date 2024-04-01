@@ -1,0 +1,104 @@
+.red-square{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+.green-circle{
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 50px;
+}
+.service{
+  display: inline-block;
+}
+.I-1{
+  font-weight: bold;
+  color: white;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-left: 20px;
+  margin-bottom: 3px;
+}
+.I-2{
+  font-size: 15px;
+  color: rgb(199, 189, 189);
+  padding-top: 15px;
+  padding-left: 20px;
+  padding-right: 15px;
+  margin-top: 3px;
+  
+}
+.Install{
+  background-color: black;
+  display: inline-block;
+
+}
+.lion{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  vertical-align: middle;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.title{
+  border: none;
+  vertical-align: middle;
+}
+.tweet-button{
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  border: none;
+  font-size: 10px;
+  padding-left: 8px;
+  padding-top: 5px;
+  padding-right: 8px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 20px;
+}
+.exercise-9e{
+  width: 300px;
+  display: inline-block;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+.cat{
+  width: 150px;
+  height: 150px;
+}
+.name{
+  font-weight: bold;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.stats{
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+.Add-button{
+  background-color: blue;
+  color: white;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  font-size: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.facebook-profile{
+  display: inline-block;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
